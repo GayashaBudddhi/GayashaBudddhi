@@ -1,8 +1,9 @@
-Hi All, I'm Buddhi Amarasinghe - Come on https://wordpress.com/me 👋
-I'm currently an Undergraduage student, Problem Solver, Programmer, Content Creator
-- 
--  
-- 👋 Hi, I’m @Budddhi Amarasinghe
+Hi All, I'm Buddhi Amarasinghe - https://wordpress.com/me 👋
+
+
+I'm currently an Undergraduage student, Problem Solver, Programmer, Content Creator 👩‍🎓👩‍💻
+ 
+- 👋 Hello, I’m @Budddhi Amarasinghe
 - 👀 I love coding and try to make it happens
 - 🌱 I’m currently learning about Conference Management Project
 - 💞️ I’m looking to collaborate on other content creators
