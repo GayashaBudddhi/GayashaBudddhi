@@ -5,7 +5,7 @@ I'm currently an Undergraduage student, Problem Solver, Programmer, Content Crea
  
 - 👋 Hello, I’m @Buddhi Amarasinghe
 - 👀 I love coding and try to make it happens
-- 🌱 I’m currently learning about Institute Management Project
+- 🌱 I’m currently learning about Flutter mobile apps development
 - 💞️ I’m looking to collaborate on other content creators
 - 📫 Reach me : https://www.linkedin.com/in/buddhi-amarasinghe-64ab431ba/  
 - 💴 Visit me on Wordpress - https://technicbea.wordpress.com/    
