@@ -1,7 +1,7 @@
 Hi All, I'm Buddhi Amarasinghe - https://wordpress.com/me 👋
 
 
-I'm former Trainee Software Engineer at 99x and currently an Undergraduage student, Problem Solver, Programmer, Content Creator 👩‍🎓👩‍💻
+I'm former Trainee Software Engineer at 99x and currently an Undergraduate student, Problem Solver, Programmer, Content Creator 👩‍🎓👩‍💻
  
 - 👋 Hello, I’m @Buddhi Amarasinghe
 - 👀 I love coding and try to make it happens
